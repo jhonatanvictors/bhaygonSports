@@ -9,13 +9,15 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".liga"></activity>
-        <activity android:name=".time" />
-        <activity android:name=".competicao" />
-        <activity android:name=".time_favorito" />
-        <activity android:name=".jogos" />
-        <activity android:name=".menu" />
-        <activity android:name=".principal">
+        <activity android:name=".RealMadrid"></activity>
+        <activity android:name=".Botafogo" />
+        <activity android:name=".Liga" />
+        <activity android:name=".Time" />
+        <activity android:name=".Competicao" />
+        <activity android:name=".Time_favorito" />
+        <activity android:name=".Jogos" />
+        <activity android:name=".Menu" />
+        <activity android:name=".Principal">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

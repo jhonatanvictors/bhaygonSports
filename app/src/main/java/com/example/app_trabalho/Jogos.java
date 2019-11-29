@@ -4,7 +4,7 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
-public class jogos extends AppCompatActivity {
+public class Jogos extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
